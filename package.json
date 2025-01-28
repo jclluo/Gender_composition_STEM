@@ -36,7 +36,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://jclluo.github.io/Gender_composition_STEM",
+  "homepage": "https://jclluo.github.io/Gender_composition_STEM/",
   "devDependencies": {
     "gh-pages": "^6.3.0"
   }
